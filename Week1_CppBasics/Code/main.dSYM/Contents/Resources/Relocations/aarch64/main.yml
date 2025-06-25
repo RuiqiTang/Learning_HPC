@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tr/Documents/GitHub/Learning_HPC/Week1_CppBasics/Code/main'
+relocations:     []
+...
